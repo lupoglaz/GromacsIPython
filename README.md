@@ -1,7 +1,8 @@
 GromacsIPython
 ==============
 
-Using Gomacs from IPython notebook.
+## Using Gomacs from IPython notebook.
+
 This is not a complete tutorial on how to use GROMACS (refer f.e. to excelent [tutorials](http://www.bevanlab.biochem.vt.edu/Pages/Personal/justin/gmx-tutorials/)).
 The goal of this repository is to provide an indea that using
 IPython is beneficial to your work. You can instantly visualize results, all your protocols are saved in one place, and the overall 
@@ -21,8 +22,11 @@ of this peptide.
 
 **The steps are the following:**
 1. [Generating the topology of the structure, solvating, adding ions and minimizing](http://nbviewer.ipython.org/github/lupoglaz/GromacsIPython/blob/master/EnergyMinimization.ipynb?create=1)
+
 2. [NVT and NPT coupling](http://nbviewer.ipython.org/github/lupoglaz/GromacsIPython/blob/master/TemperatureAndPressureCoupling.ipynb?create=1)
+
 3. [MD production](http://nbviewer.ipython.org/github/lupoglaz/GromacsIPython/blob/master/RunMD.ipynb?create=1)
+
 4. [Analysis and visualization of MD](http://nbviewer.ipython.org/github/lupoglaz/GromacsIPython/blob/master/MDAnalysis.ipynb?create=1)
 
 
