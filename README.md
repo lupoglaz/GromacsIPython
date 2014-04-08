@@ -21,6 +21,7 @@ of this peptide.
 5. mencoder and ffmpeg to make and convert MD video
 
 **The steps are the following:**
+
 1. [Generating the topology of the structure, solvating, adding ions and minimizing](http://nbviewer.ipython.org/github/lupoglaz/GromacsIPython/blob/master/EnergyMinimization.ipynb?create=1)
 
 2. [NVT and NPT coupling](http://nbviewer.ipython.org/github/lupoglaz/GromacsIPython/blob/master/TemperatureAndPressureCoupling.ipynb?create=1)
